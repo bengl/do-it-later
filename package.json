@@ -1,0 +1,24 @@
+{
+  "name": "do-it-later",
+  "version": "1.0.0",
+  "description": "a simple renaming of event loop tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bengl/do-it-later.git"
+  },
+  "keywords": [
+    "nextTick",
+    "setImmediate",
+    "event-loop"
+  ],
+  "author": "Bryan English <bryan@bryanenglish.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bengl/do-it-later/issues"
+  },
+  "homepage": "https://github.com/bengl/do-it-later#readme"
+}
